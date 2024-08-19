@@ -15,7 +15,7 @@
 
 ### Download the Executable
 
-1. Visit the [releases page](URL-to-releases) to download the latest version of the application executable.
+1. Visit the [releases page](https://github.com/UmairM15/GCalAuto/releases/) to download the latest version of the application executable.
 2. Double-click the downloaded `.exe` file to run the application. The executable is a standalone file and does not require Python to be installed on the system.
 
 ### Create Google Calendar API Credentials
